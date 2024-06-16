@@ -23,7 +23,7 @@ public class BrandController {
     }
 
     @GetMapping
-    private List<Brand> getAllBrands() {
+    public List<Brand> getAllBrands() {
         return brandService.getAllBrands();
     }
 

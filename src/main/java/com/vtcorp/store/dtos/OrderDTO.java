@@ -1,6 +1,5 @@
 package com.vtcorp.store.dtos;
 
-import com.vtcorp.store.entities.Product;
 import lombok.*;
 
 import java.util.Date;
